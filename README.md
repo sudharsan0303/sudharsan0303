@@ -63,5 +63,3 @@
 - 📧 Email: sudharsan.n19@gmail.com
 - 💼 LinkedIn: [sudharsan-n336](https://linkedin.com/in/sudharsan-n336)
 - 📍 Based in Cuddalore, Tamil Nadu, India
-
-<p align="center"><i>⭐️ Thanks for stopping by — always open to interesting collaborations!</i></p>
