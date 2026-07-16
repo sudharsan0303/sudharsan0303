@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudharsan N</h1>
-<h3 align="center">Final-year B.E. CSE student | Full Stack Developer | Building solutions that have a tangible impact</h3>
+<h3 align="center">Final-year B.E. CSE student | Building solutions that have a tangible impact</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sudharsan-n336" target="_blank">
