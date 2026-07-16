@@ -58,46 +58,6 @@
 ![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
----
-
-### 🔥 Featured Projects
-
-#### 🩸 [Blood Bank Management System](#) — *Python, Flask, HTML, CSS, SQLite3*
-Web-based platform for managing blood donations and requests, with donor/recipient authentication, request management, and age validation.
-
-#### 🏠 [Real Estate Price Prediction](#) — *Python, Flask, Pandas, Scikit-learn*
-ML model predicting Mumbai property prices using web-scraped data from 99acres.com. Compared Linear Regression, Random Forest, and Decision Tree, deployed as a web app.
-
-#### 🔨 [Auction Platform](#) — *Python, Flask, HTML, CSS, SQLite3*
-Real-time bidding platform with user authentication, product listing, and bidding features.
-
-#### 💊 [Pharmacy Application](#) — *Python, Flask, HTML, CSS, SQLite3*
-Manages medicine inventory, prescriptions, and sales records, with secure prescription uploads and order tracking for pharmacists and customers.
-
-#### ⚡ [PowerTrace](#) — *ESP32, FastAPI, Python, Isolation Forest, SQLite*
-Smart Power Anomaly Detection system — full end-to-end IoT + ML pipeline combining an ESP32, SCT103 current clamp, and ZMPT101B voltage sensor with EmonLib calibration, streaming real-time readings to a FastAPI backend via ngrok. Implements Isolation Forest anomaly detection through a 5-stage safety pipeline covering overcurrent, sensor faults, noise floor, and sustained high-load scenarios.
-
-> 💡 Replace the `#` links above with your actual GitHub repo URLs.
-
----
-
-### 📜 Certifications
-
-- 🏅 NPTEL Certification in Java Programming — Jul–Oct 2024
-- 🏅 Full Stack Web Development – Amazon | Coursera — Mar 2026
-- 🏅 AWS Educate: Introduction to Generative AI — Training Badge
-- 🏅 Artificial Intelligence Fundamentals
-
----
-
-### 🏆 Awards & Achievements
-
-- 🥈 2nd Prize, Code Crux (Team of 2) — INFYRA 2024 Tech Fest Symposium, Sairam Institute of Technology, September 2024
-- 🚀 Participant, Adobe India Hackathon
-- 🚀 Participant, Smart India Hackathon
-
----
-
 ### 📫 Connect with Me
 
 - 📧 Email: sudharsan.n19@gmail.com
